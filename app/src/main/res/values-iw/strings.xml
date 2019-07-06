@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ContactsProject</string>
+    <string name="activity_first_label">מנהל אנשי הקשר</string>
+    <string name="tv_name">שם מלא</string>
+    <string name="tv_phone">מספר טלפון</string>
+    <string name="tv_email">כתובת מייל</string>
+    <string name="tv_address">כתובת בית</string>
+    <string name="tv_website">כתובת אתר</string>
+    <string name="tv_pick_date">תאריך יומהולדת</string>
+    <string name="tv_time">זמן מועדף להתקשר</string>
+    <string name="example_name">דוגמא לאיש קשר!</string>
+    <string name="example_discription"> נסה להוסיף אחד משלך, החלק הצידה למחיקה.</string>
+    <string name="dialog_remove_positive"> מחק</string>
+    <string name="dialog_remove_negative">ביטול</string>
+    <string name="dialog_remove_info">האם אתה בטוח שאתה רוצה למחוק את</string>
+    <string name="dialog_remove_title">למחוק איש קשר?</string>
+    <string name="activity_view">פרטי איש קשר</string>
+    <string name="activity_add">הוסף איש קשר</string>
+    <string name="activity_edit">ערוך איש קשר</string>
+    <string name="dialog_date"> בחר תאריך לידה</string>
+    <string name="dialog_time">בחר זמן טוב להתקשר</string>
+    <string name="dialog_confirm"> אישור</string>
+    <string name="dialog_cancel"> ביטול</string>
+</resources>

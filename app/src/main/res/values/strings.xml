@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">ContactsProject</string>
+    <string name="activity_first_label">Contacts Manager</string>
+    <string name="tv_name">Full Name</string>
+    <string name="tv_phone">Phone Number</string>
+    <string name="tv_email">E-Mail</string>
+    <string name="tv_address">Home Address</string>
+    <string name="tv_website">Website URL</string>
+    <string name="tv_pick_date">Birthday Date</string>
+    <string name="tv_time">Best Time to Call</string>
+    <string name="example_name">Example Contact!</string>
+    <string name="example_discription">Try to add yours, or swipe to delete.</string>
+    <string name="dialog_remove_info">Are you sure that you want to remove</string>
+    <string name="dialog_remove_positive">Remove</string>
+    <string name="dialog_remove_negative">Cancel</string>
+    <string name="dialog_remove_title">Remove Contact?</string>
+    <string name="activity_view">Contact Information</string>
+    <string name="activity_add">Add Contact</string>
+    <string name="activity_edit">Edit Contact</string>
+    <string name="dialog_time">Choose the Best Time to Call</string>
+    <string name="dialog_date">Choose Bith Date</string>
+    <string name="dialog_confirm">Confirm</string>
+    <string name="dialog_cancel">Cancel</string>
+</resources>
